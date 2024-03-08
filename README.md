@@ -7,7 +7,7 @@
                                                                                                                                                                                                                                                                     **	Welcome to the Target Data Analysis project! **
                                                                                                                                                                                                                                                                     
 🔷	As a data scientist at Target, you've been given the exciting opportunity to analyse 100000 orders from 2016 to 2018 made at Target in Brazil. 
-🔷	The dataset is available in 8 csv files:                                                                                                                                                                                    
+🔷	The dataset is available in 8 csv files:                                                                                                                                                        
         •	customers.csv 
         •	geolocation.csv 
         •	order_items.csv 
@@ -53,5 +53,11 @@
 🔷	Analysis based on the payments:
     ->	Find the month on month no. of orders placed using different payment types.
     ->	Find the no. of orders placed on the basis of the payment installments that have been paid.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Give a ⭐️ if you like this project!**
 
 
