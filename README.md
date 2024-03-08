@@ -1,7 +1,7 @@
 # SQL_case_study
 
 ![image](https://github.com/Arundhamjena/SQL_case_study/assets/153628729/65ea7aac-ce7c-45d3-a89c-36cfe0bcc411)
-
+ 
 🔷	This Repo serves as a business case study. Providing Solution, Insights and Recommendation for the growth in their Revenue through SQL queries.
 🔷	This SQL solutions done in Google "BigQuery"
                                                                                                                                                                                                                                                                     **	Welcome to the Target Data Analysis project! **
