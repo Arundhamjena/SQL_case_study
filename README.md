@@ -1,5 +1,5 @@
 # SQL_case_study
-#### **Welcome to the Target SQL project**
+## **Welcome to the Target SQL project**
 ![image](https://github.com/Arundhamjena/SQL_case_study/assets/153628729/65ea7aac-ce7c-45d3-a89c-36cfe0bcc411)
 
  ***
@@ -62,9 +62,8 @@
     2.	Find the no. of orders placed on the basis of the payment installments that have been paid.
 ***
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## **Give a ⭐️ if you like this project!**
+### If you have any questions, reach out to me on [LinkedIn](www.linkedin.com/in/arundham-jena-59aa20143)
 
 
