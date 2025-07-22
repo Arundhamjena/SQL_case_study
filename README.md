@@ -1,4 +1,4 @@
-# SQL_case_study
+# E-Commerce Order Analysis
 ## **Welcome to the Target SQL project**
 ![image](https://github.com/Arundhamjena/SQL_case_study/assets/153628729/65ea7aac-ce7c-45d3-a89c-36cfe0bcc411)
 
